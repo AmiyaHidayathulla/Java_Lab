@@ -1,1 +1,1 @@
-# Object Oriented Programming using Java- Lab S3-CSE
+# Object Oriented Programming using JAVA- Lab S3-CSE
